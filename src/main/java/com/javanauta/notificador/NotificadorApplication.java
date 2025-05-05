@@ -1,4 +1,4 @@
-package com.example.notificador;
+package com.javanauta.notificador;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
